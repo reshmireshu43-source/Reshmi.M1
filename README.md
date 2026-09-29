@@ -11,3 +11,4 @@ write java code for selection sort and insertion sort
 java code for counting vowels in string
 java code for reversing an array in place
 java code to find the second largest element
+write a java code to create animal hierarchy with class animal subclass dog,fox and rabbit
