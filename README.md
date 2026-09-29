@@ -19,3 +19,4 @@ write a java code for accessing and removing elements in a linkedlist by using i
 write a java program by using try catch and finally block for any arithmetic exception or any index out of bound exception
 java code for fibonacci with recursion
 write a java code to create a class which can shared by two objects (student) for name and marks in a subject
+write a java code for given an array of integers retyrn the number of distinct absolute values among the elements of the array .absolute any value is defined as its positive equivalent ABS(-5)=ABS(5)=5 or mathematically |-5|=|5|=1
