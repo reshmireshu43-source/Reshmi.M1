@@ -18,3 +18,4 @@ write a java for managing a to-do list adding,removing,and iterating over a simp
 write a java code for accessing and removing elements in a linkedlist by using its operations
 write a java program by using try catch and finally block for any arithmetic exception or any index out of bound exception
 java code for fibonacci with recursion
+write a java code to create a class which can shared by two objects (student) for name and marks in a subject
