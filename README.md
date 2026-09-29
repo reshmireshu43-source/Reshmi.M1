@@ -12,3 +12,4 @@ java code for counting vowels in string
 java code for reversing an array in place
 java code to find the second largest element
 write a java code to create animal hierarchy with class animal subclass dog,fox and rabbit
+write a java code for method overriding a string where each class inherits to string from object and overrides that to see how the object can be printed
