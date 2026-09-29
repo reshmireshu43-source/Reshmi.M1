@@ -17,3 +17,4 @@ write a java code to implement the abstraction by using shapes and 2 sub classes
 write a java for managing a to-do list adding,removing,and iterating over a simple arraylists of tasks
 write a java code for accessing and removing elements in a linkedlist by using its operations
 write a java program by using try catch and finally block for any arithmetic exception or any index out of bound exception
+java code for fibonacci with recursion
