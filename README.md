@@ -9,3 +9,4 @@ write a code by splitting a sentence into word and then rebuilt it in new format
 java code to find the largest element in array
 write java code for selection sort and insertion sort
 java code for counting vowels in string
+java code for reversing an array in place
