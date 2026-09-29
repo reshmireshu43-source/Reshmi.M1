@@ -8,3 +8,4 @@ write a code by using 3 methods of string
 write a code by splitting a sentence into word and then rebuilt it in new format
 java code to find the largest element in array
 write java code for selection sort and insertion sort
+java code for counting vowels in string
