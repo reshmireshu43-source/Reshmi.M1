@@ -21,3 +21,4 @@ java code for fibonacci with recursion
 write a java code to create a class which can shared by two objects (student) for name and marks in a subject
 write a java code for given an array of integers retyrn the number of distinct absolute values among the elements of the array .absolute any value is defined as its positive equivalent ABS(-5)=ABS(5)=5 or mathematically |-5|=|5|=1
 write a java code for given an array of integers and an integer target ,print indices of the two numbers such that the numbers add up to target. you may aaaume that each nput would have exactly one solution,and you may not use the same element twice.you must print the answer indices in ascending order. if no such pair exists,return[-1,-1]
+write a java code for you are given N strings of length M,count the number of anagramic groups
